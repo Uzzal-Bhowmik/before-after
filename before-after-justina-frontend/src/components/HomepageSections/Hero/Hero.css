@@ -1,0 +1,6 @@
+.hero-bg {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)),
+    url("../../../../public/images/Home/Hero/hero-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

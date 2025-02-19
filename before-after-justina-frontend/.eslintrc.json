@@ -1,0 +1,24 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "plugin:react-hooks/recommended"
+    // "eslint:recommended"
+    // "plugin:import/recommended"
+  ]
+  // "rules": {
+  //   "import/no-unresolved": ["error", { "commonjs": true, "amd": true }],
+  //   "import/named": "error",
+  //   "import/namespace": "error",
+  //   "import/default": "error",
+  //   "import/export": "error"
+  // }
+
+  // "settings": {
+  //   "import/resolver": {
+  //     "alias": {
+  //       "extensions": [".js", ".jsx"],
+  //       "map": [["@", "."]]
+  //     }
+  //   }
+  // }
+}
